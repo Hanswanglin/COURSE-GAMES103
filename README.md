@@ -1,5 +1,5 @@
 # COURSE-GAMES103
-Home Page:http://games-cn.org/games103/
+Home Page:http://games-cn.org/games103/ (Updating)
 
 > This course is an introduction to physics-based computer animation techniques, focusing on a variety of basic physical animation simulation techniques. The course covers four main directions: 
 >
@@ -19,3 +19,4 @@ The course mainly use the unity3D as the implementation platform.
 
 
 ### Course PPT
+
